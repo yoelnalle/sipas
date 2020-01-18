@@ -1,2 +1,3 @@
 # sipas
-sistem informasi pengelolaan arsip surat
+Sistem Informasi Pengelolaan Arsip Surat
+Codeigniter dengan template AdminLTE
